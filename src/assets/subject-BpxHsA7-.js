@@ -1,0 +1,1 @@
+import{_ as l,aG as t,a as r,c,d as s}from"./index-wHxvx3OI.js";const d={};function u(e,o){const a=t("tiny-date-picker");return r(),c("div",null,[s(a,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=n=>e.value=n),placeholder:"请选择日期"},null,8,["modelValue"])])}const m=l(d,[["render",u]]);export{m as default};
